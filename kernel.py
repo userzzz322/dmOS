@@ -97,7 +97,7 @@ pkgs_rel
 
 empty=""
 
-version='0.2'
+version='0.25'
 
 username="kernel"
 
@@ -148,6 +148,9 @@ def reload_packages():
 def read_packageses():
     with open('_sys/packages.obsidOS', 'r', encoding='utf-8') as file:
         print(file.read())
+
+def command_make():
+    os.system('make')
 
 def login_screen():
     base_dir = os.path.dirname(os.path.abspath(__file__))

@@ -1,4 +1,6 @@
 bash OR zsh OR fish
 vim
 git
+base-devel
+cmake
 python

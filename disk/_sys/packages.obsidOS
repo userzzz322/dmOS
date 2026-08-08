@@ -1,5 +1,5 @@
 packages = {
     # here u add packages (if u delete comments it will not brake the system)
     # example package (github!)
-    # github = https://github.com/
+    # github = "https://github.com/"
   }
