@@ -1,0 +1,4 @@
+bash OR zsh OR fish
+vim
+git
+python
