@@ -87,6 +87,7 @@ date
 pwd
 cp
 vim
+make
 
 pkgs_list
 pkgs_rel
